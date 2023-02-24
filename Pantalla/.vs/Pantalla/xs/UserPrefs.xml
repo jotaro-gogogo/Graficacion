@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{9DB78F17-4D99-40B4-B3E9-E6DF12227F5B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pantalla/Geometrias.cs">
+    <Files>
+      <File FileName="Pantalla/Program.cs" Line="10" Column="47" />
+      <File FileName="Pantalla/Pantalla.cs" Line="50" Column="53" />
+      <File FileName="Pantalla/Geometrias.cs" Line="52" Column="76" />
+      <File FileName="Pantalla/Extras.cs" Line="64" Column="102" />
+      <File FileName="Pantalla/Punto.cs" Line="39" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pantalla" expanded="True">
+            <Node name="Pantalla" expanded="True">
+              <Node name="Geometrias.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Pantalla PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

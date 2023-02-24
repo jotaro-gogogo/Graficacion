@@ -1,0 +1,6 @@
+/home/jotaro/Programación/Graficación/Pantalla/Pantalla/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jotaro/Programación/Graficación/Pantalla/Pantalla/bin/Debug/OpenTK.dll
+/home/jotaro/Programación/Graficación/Pantalla/Pantalla/bin/Debug/Pantalla.exe.mdb
+/home/jotaro/Programación/Graficación/Pantalla/Pantalla/bin/Debug/Pantalla.exe
+/home/jotaro/Programación/Graficación/Pantalla/Pantalla/obj/x86/Debug/Pantalla.exe
+/home/jotaro/Programación/Graficación/Pantalla/Pantalla/obj/x86/Debug/Pantalla.exe.mdb

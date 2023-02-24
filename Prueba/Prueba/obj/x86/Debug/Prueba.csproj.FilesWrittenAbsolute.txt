@@ -1,0 +1,5 @@
+/home/jotaro/Programación/Graficación/Prueba/Prueba/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jotaro/Programación/Graficación/Prueba/Prueba/bin/Debug/Prueba.exe.mdb
+/home/jotaro/Programación/Graficación/Prueba/Prueba/bin/Debug/Prueba.exe
+/home/jotaro/Programación/Graficación/Prueba/Prueba/obj/x86/Debug/Prueba.exe
+/home/jotaro/Programación/Graficación/Prueba/Prueba/obj/x86/Debug/Prueba.exe.mdb

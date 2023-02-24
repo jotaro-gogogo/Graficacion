@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{907F49D0-EB0A-4EB1-A894-DB2B020CDB88}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DDA/Linea.cs">
+    <Files>
+      <File FileName="DDA/Program.cs" Line="16" Column="35" />
+      <File FileName="DDA/Matriz.cs" Line="43" Column="13" />
+      <File FileName="DDA/Linea.cs" Line="49" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DDA" expanded="True">
+            <Node name="DDA" expanded="True">
+              <Node name="Linea.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DDA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

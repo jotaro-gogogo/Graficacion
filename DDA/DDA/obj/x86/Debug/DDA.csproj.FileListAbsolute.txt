@@ -1,0 +1,6 @@
+/home/jotaro/Programación/Graficación/DDA/DDA/bin/Debug/DDA.exe
+/home/jotaro/Programación/Graficación/DDA/DDA/bin/Debug/DDA.pdb
+/home/jotaro/Programación/Graficación/DDA/DDA/obj/x86/Debug/DDA.csproj.AssemblyReference.cache
+/home/jotaro/Programación/Graficación/DDA/DDA/obj/x86/Debug/DDA.csproj.CoreCompileInputs.cache
+/home/jotaro/Programación/Graficación/DDA/DDA/obj/x86/Debug/DDA.exe
+/home/jotaro/Programación/Graficación/DDA/DDA/obj/x86/Debug/DDA.pdb
