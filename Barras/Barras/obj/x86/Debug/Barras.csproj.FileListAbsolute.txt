@@ -1,0 +1,8 @@
+/home/jotaro/Programacion/Graficacion/Barras/Barras/bin/Debug/Barras.exe
+/home/jotaro/Programacion/Graficacion/Barras/Barras/bin/Debug/Barras.pdb
+/home/jotaro/Programacion/Graficacion/Barras/Barras/bin/Debug/OpenTK.dll
+/home/jotaro/Programacion/Graficacion/Barras/Barras/obj/x86/Debug/Barras.csproj.AssemblyReference.cache
+/home/jotaro/Programacion/Graficacion/Barras/Barras/obj/x86/Debug/Barras.csproj.CoreCompileInputs.cache
+/home/jotaro/Programacion/Graficacion/Barras/Barras/obj/x86/Debug/Barras.csproj.CopyComplete
+/home/jotaro/Programacion/Graficacion/Barras/Barras/obj/x86/Debug/Barras.exe
+/home/jotaro/Programacion/Graficacion/Barras/Barras/obj/x86/Debug/Barras.pdb

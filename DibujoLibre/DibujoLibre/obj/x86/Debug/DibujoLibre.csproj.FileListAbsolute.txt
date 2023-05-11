@@ -1,0 +1,8 @@
+/home/jotaro/Programacion/Graficacion/DibujoLibre/DibujoLibre/obj/x86/Debug/DibujoLibre.csproj.AssemblyReference.cache
+/home/jotaro/Programacion/Graficacion/DibujoLibre/DibujoLibre/obj/x86/Debug/DibujoLibre.csproj.CoreCompileInputs.cache
+/home/jotaro/Programacion/Graficacion/DibujoLibre/DibujoLibre/bin/Debug/DibujoLibre.exe
+/home/jotaro/Programacion/Graficacion/DibujoLibre/DibujoLibre/bin/Debug/DibujoLibre.pdb
+/home/jotaro/Programacion/Graficacion/DibujoLibre/DibujoLibre/bin/Debug/OpenTK.dll
+/home/jotaro/Programacion/Graficacion/DibujoLibre/DibujoLibre/obj/x86/Debug/DibujoLibre.csproj.CopyComplete
+/home/jotaro/Programacion/Graficacion/DibujoLibre/DibujoLibre/obj/x86/Debug/DibujoLibre.exe
+/home/jotaro/Programacion/Graficacion/DibujoLibre/DibujoLibre/obj/x86/Debug/DibujoLibre.pdb

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8E5C498C-D3E9-4528-96A4-FD009731C8C4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Cuadratica FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cuadratica/Linea.cs">
+    <Files>
+      <File FileName="Cuadratica/Program.cs" Line="1" Column="1" />
+      <File FileName="Cuadratica/Matriz.cs" Line="21" Column="35" />
+      <File FileName="Cuadratica/Linea.cs" Line="5" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cuadratica" expanded="True">
+            <Node name="Cuadratica" expanded="True">
+              <Node name="Linea.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

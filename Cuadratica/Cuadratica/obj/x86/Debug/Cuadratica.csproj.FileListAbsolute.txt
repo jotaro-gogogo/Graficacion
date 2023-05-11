@@ -1,0 +1,6 @@
+/home/jotaro/Programacion/Graficacion/Cuadratica/Cuadratica/bin/Debug/Cuadratica.exe
+/home/jotaro/Programacion/Graficacion/Cuadratica/Cuadratica/bin/Debug/Cuadratica.pdb
+/home/jotaro/Programacion/Graficacion/Cuadratica/Cuadratica/obj/x86/Debug/Cuadratica.csproj.AssemblyReference.cache
+/home/jotaro/Programacion/Graficacion/Cuadratica/Cuadratica/obj/x86/Debug/Cuadratica.csproj.CoreCompileInputs.cache
+/home/jotaro/Programacion/Graficacion/Cuadratica/Cuadratica/obj/x86/Debug/Cuadratica.exe
+/home/jotaro/Programacion/Graficacion/Cuadratica/Cuadratica/obj/x86/Debug/Cuadratica.pdb

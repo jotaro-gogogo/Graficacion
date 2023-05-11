@@ -14,3 +14,11 @@
 /home/jotaro/Programacion/Graficación/Pantalla/Pantalla/obj/x86/Debug/Pantalla.csproj.CopyComplete
 /home/jotaro/Programacion/Graficación/Pantalla/Pantalla/obj/x86/Debug/Pantalla.exe
 /home/jotaro/Programacion/Graficación/Pantalla/Pantalla/obj/x86/Debug/Pantalla.pdb
+/home/jotaro/Programacion/Graficacion/Pantalla/Pantalla/bin/Debug/Pantalla.exe
+/home/jotaro/Programacion/Graficacion/Pantalla/Pantalla/bin/Debug/Pantalla.pdb
+/home/jotaro/Programacion/Graficacion/Pantalla/Pantalla/bin/Debug/OpenTK.dll
+/home/jotaro/Programacion/Graficacion/Pantalla/Pantalla/obj/x86/Debug/Pantalla.csproj.AssemblyReference.cache
+/home/jotaro/Programacion/Graficacion/Pantalla/Pantalla/obj/x86/Debug/Pantalla.csproj.CoreCompileInputs.cache
+/home/jotaro/Programacion/Graficacion/Pantalla/Pantalla/obj/x86/Debug/Pantalla.csproj.CopyComplete
+/home/jotaro/Programacion/Graficacion/Pantalla/Pantalla/obj/x86/Debug/Pantalla.exe
+/home/jotaro/Programacion/Graficacion/Pantalla/Pantalla/obj/x86/Debug/Pantalla.pdb

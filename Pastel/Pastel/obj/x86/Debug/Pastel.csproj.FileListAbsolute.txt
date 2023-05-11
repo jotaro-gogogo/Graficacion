@@ -1,0 +1,8 @@
+/home/jotaro/Programacion/Graficacion/Pastel/Pastel/bin/Debug/Pastel.exe
+/home/jotaro/Programacion/Graficacion/Pastel/Pastel/bin/Debug/Pastel.pdb
+/home/jotaro/Programacion/Graficacion/Pastel/Pastel/bin/Debug/OpenTK.dll
+/home/jotaro/Programacion/Graficacion/Pastel/Pastel/obj/x86/Debug/Pastel.csproj.AssemblyReference.cache
+/home/jotaro/Programacion/Graficacion/Pastel/Pastel/obj/x86/Debug/Pastel.csproj.CoreCompileInputs.cache
+/home/jotaro/Programacion/Graficacion/Pastel/Pastel/obj/x86/Debug/Pastel.csproj.CopyComplete
+/home/jotaro/Programacion/Graficacion/Pastel/Pastel/obj/x86/Debug/Pastel.exe
+/home/jotaro/Programacion/Graficacion/Pastel/Pastel/obj/x86/Debug/Pastel.pdb

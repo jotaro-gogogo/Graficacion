@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{5B233CBF-45DC-45D6-876C-F3CFF880F81C}|Default">
+  <MonoDevelop.Ide.ItemProperties.DibujoLibre PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DibujoLibre/Pantalla.cs">
+    <Files>
+      <File FileName="DibujoLibre/Program.cs" Line="9" Column="46" />
+      <File FileName="DibujoLibre/Pantalla.cs" Line="54" Column="32" />
+      <File FileName="DibujoLibre/Poligono.cs" Line="41" Column="10" />
+      <File FileName="DibujoLibre/Cuadrilatero.cs" Line="59" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DibujoLibre" expanded="True">
+            <Node name="DibujoLibre" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Pantalla.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

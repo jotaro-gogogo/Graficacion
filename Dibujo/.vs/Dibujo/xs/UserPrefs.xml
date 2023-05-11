@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8E7FBDEF-20F8-43B0-A8FC-128293E3FA04}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dibujo/Punto.cs">
+    <Files>
+      <File FileName="Dibujo/Punto.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dibujo" expanded="True">
+            <Node name="Dibujo" expanded="True">
+              <Node name="Punto.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Dibujo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

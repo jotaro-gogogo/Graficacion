@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CAACCF81-41DD-41E5-BD6B-D47878664E44}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pastel/Grafica.cs">
+    <Files>
+      <File FileName="Pastel/Program.cs" Line="11" Column="26" />
+      <File FileName="Pastel/Pantalla.cs" Line="33" Column="30" />
+      <File FileName="Pastel/Grafica.cs" Line="70" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pastel" expanded="True">
+            <Node name="Pastel" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Grafica.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Pastel PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

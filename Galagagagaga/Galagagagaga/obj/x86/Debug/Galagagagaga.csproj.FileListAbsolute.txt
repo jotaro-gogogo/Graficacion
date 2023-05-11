@@ -1,0 +1,8 @@
+/home/jotaro/Programacion/Graficacion/Galagagagaga/Galagagagaga/bin/Debug/Galagagagaga.exe
+/home/jotaro/Programacion/Graficacion/Galagagagaga/Galagagagaga/bin/Debug/Galagagagaga.pdb
+/home/jotaro/Programacion/Graficacion/Galagagagaga/Galagagagaga/bin/Debug/OpenTK.dll
+/home/jotaro/Programacion/Graficacion/Galagagagaga/Galagagagaga/obj/x86/Debug/Galagagagaga.csproj.AssemblyReference.cache
+/home/jotaro/Programacion/Graficacion/Galagagagaga/Galagagagaga/obj/x86/Debug/Galagagagaga.csproj.CoreCompileInputs.cache
+/home/jotaro/Programacion/Graficacion/Galagagagaga/Galagagagaga/obj/x86/Debug/Galagagagaga.csproj.CopyComplete
+/home/jotaro/Programacion/Graficacion/Galagagagaga/Galagagagaga/obj/x86/Debug/Galagagagaga.exe
+/home/jotaro/Programacion/Graficacion/Galagagagaga/Galagagagaga/obj/x86/Debug/Galagagagaga.pdb

@@ -1,0 +1,8 @@
+/home/jotaro/Programacion/Graficacion/DDAGrafico/DDAGrafico/bin/Debug/DDAGrafico.exe
+/home/jotaro/Programacion/Graficacion/DDAGrafico/DDAGrafico/bin/Debug/DDAGrafico.pdb
+/home/jotaro/Programacion/Graficacion/DDAGrafico/DDAGrafico/bin/Debug/OpenTK.dll
+/home/jotaro/Programacion/Graficacion/DDAGrafico/DDAGrafico/obj/x86/Debug/DDAGrafico.csproj.AssemblyReference.cache
+/home/jotaro/Programacion/Graficacion/DDAGrafico/DDAGrafico/obj/x86/Debug/DDAGrafico.csproj.CoreCompileInputs.cache
+/home/jotaro/Programacion/Graficacion/DDAGrafico/DDAGrafico/obj/x86/Debug/DDAGrafico.csproj.CopyComplete
+/home/jotaro/Programacion/Graficacion/DDAGrafico/DDAGrafico/obj/x86/Debug/DDAGrafico.exe
+/home/jotaro/Programacion/Graficacion/DDAGrafico/DDAGrafico/obj/x86/Debug/DDAGrafico.pdb

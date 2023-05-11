@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{DCEF9BA3-450F-4C12-A914-8A56CBE08B7A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DDAGrafico/Primitivas.cs">
+    <Files>
+      <File FileName="DDAGrafico/Program.cs" Line="1" Column="1" />
+      <File FileName="DDAGrafico/Screen.cs" Line="39" Column="13" />
+      <File FileName="DDAGrafico/Primitivas.cs" Line="12" Column="47" />
+      <File FileName="DDAGrafico/Punto.cs" Line="24" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DDAGrafico" expanded="True">
+            <Node name="DDAGrafico" expanded="True">
+              <Node name="Primitivas.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DDAGrafico PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

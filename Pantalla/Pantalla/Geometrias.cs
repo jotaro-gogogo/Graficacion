@@ -41,35 +41,15 @@ namespace Pantalla
             GL.End();
         }
 
-        public void CirculoParametrico(double[] percent)
+        public void CirculoParametrico()
         {
-            /*
-             * Convertir los porcentajes a grados e ir sumando 
-             * para que cada nuevo trazo llegue hasta el final.
-             * 
-             * [°01][°02][°03][°04][°05][°06]
-             * for (0 -> percent.length())--¬
-             *      vertex2(  ¿¿¿ Math.Cos(¿¿??), Math.Sin(¿¿??) ???   )    
-             *      porque ya está convertido a radianes ¿no?            
-            */
-
-            double[] colores = random.Randomizar();
             GL.PointSize(3f);
             GL.Begin(PrimitiveType.Points);
-
-            for (int i = 0; i < percent.Length; i++)
+            for (double t = 0; t <= Math.PI * 2; t += 0.001f)
             {
-                double tmp = 0;
-
-                for (double t = tmp; t <= (Math.PI * 2) * percent[i]; t += 0.001f)
-                {
-                    GL.Color3(colores[0], colores[1], colores[2]);
-                    GL.Vertex2(Math.Cos(t), Math.Sin(t));
-                }
-
-                tmp = (Math.PI * 2) * percent[i];
+                GL.Color3(Math.Sin(t), Math.Cos(t), 1);
+                GL.Vertex2(Math.Cos(t), Math.Sin(t));
             }
-
             GL.End();
         }
 
@@ -80,6 +60,18 @@ namespace Pantalla
             GL.Vertex2(b.X, a.Y);
             GL.Vertex2(b.X, b.Y);
             GL.Vertex2(a.X, b.Y);
+            GL.End();
+        }
+
+        public void Curva(double a, double b, double c, double d, double j, double k)
+        {
+            GL.Begin(PrimitiveType.Points);
+            for (double t = 0; t < 2 * Math.PI; t += 0.001)
+            {
+                double x = Math.Cos(a * t) - Math.Pow(Math.Cos(b * t), j);
+                double y = Math.Sin(c * t) - Math.Pow(Math.Sin(d * t), k);
+                GL.Vertex2(x, y);
+            }
             GL.End();
         }
     }

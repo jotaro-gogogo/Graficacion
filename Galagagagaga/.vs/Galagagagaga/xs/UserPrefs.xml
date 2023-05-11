@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4CB0F778-138B-45C4-B5C5-EF97BE37E50B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Galagagagaga PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Galagagagaga/Pantalla.cs">
+    <Files>
+      <File FileName="Galagagagaga/Pantalla.cs" Line="13" Column="1" />
+      <File FileName="Galagagagaga/Collider.cs" Line="36" Column="43" />
+      <File FileName="Galagagagaga/Poligono.cs" Line="15" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Galagagagaga" expanded="True">
+            <Node name="Galagagagaga" expanded="True">
+              <Node name="Pantalla.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

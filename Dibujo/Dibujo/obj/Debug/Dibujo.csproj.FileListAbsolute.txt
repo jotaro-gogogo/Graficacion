@@ -1,0 +1,13 @@
+C:/Users/adan_/Documents/SharpDevelop Projects/Dibujo/Dibujo/bin/Debug/Dibujo.exe
+C:/Users/adan_/Documents/SharpDevelop Projects/Dibujo/Dibujo/bin/Debug/Dibujo.pdb
+C:/Users/adan_/Documents/SharpDevelop Projects/Dibujo/Dibujo/bin/Debug/OpenTK.dll
+C:/Users/adan_/Documents/SharpDevelop Projects/Dibujo/Dibujo/obj/Debug/Dibujo.csprojResolveAssemblyReference.cache
+C:/Users/adan_/Documents/SharpDevelop Projects/Dibujo/Dibujo/obj/Debug/Dibujo.exe
+C:/Users/adan_/Documents/SharpDevelop Projects/Dibujo/Dibujo/obj/Debug/Dibujo.pdb
+/home/jotaro/Programacion/Graficacion/Dibujo/Dibujo/bin/Debug/Dibujo.exe
+/home/jotaro/Programacion/Graficacion/Dibujo/Dibujo/bin/Debug/Dibujo.pdb
+/home/jotaro/Programacion/Graficacion/Dibujo/Dibujo/obj/Debug/Dibujo.csproj.AssemblyReference.cache
+/home/jotaro/Programacion/Graficacion/Dibujo/Dibujo/obj/Debug/Dibujo.csproj.CoreCompileInputs.cache
+/home/jotaro/Programacion/Graficacion/Dibujo/Dibujo/obj/Debug/Dibujo.csproj.CopyComplete
+/home/jotaro/Programacion/Graficacion/Dibujo/Dibujo/obj/Debug/Dibujo.exe
+/home/jotaro/Programacion/Graficacion/Dibujo/Dibujo/obj/Debug/Dibujo.pdb

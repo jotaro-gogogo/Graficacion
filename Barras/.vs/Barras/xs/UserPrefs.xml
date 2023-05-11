@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B56298B1-3EC5-40A8-BEBD-B917001BE955}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Barras/Barra.cs">
+    <Files>
+      <File FileName="Barras/Program.cs" Line="1" Column="1" />
+      <File FileName="Barras/Pantalla.cs" Line="11" Column="22" />
+      <File FileName="Barras/Barra.cs" Line="67" Column="1" />
+      <File FileName="Barras/Punto.cs" Line="31" Column="1" />
+      <File FileName="Barras/Guias.cs" Line="30" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Barras" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Barras PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
